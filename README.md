@@ -1,7 +1,7 @@
 # Table of Contents
-1. [Introduction](README.md#introduction)
-1. [Approach](README.md#Approach)
-1. [Testing](README.md#Testing)
+ [Introduction](README.md#introduction)
+ [Approach](README.md#Approach)
+ [Testing](README.md#Testing)
 
 
 
