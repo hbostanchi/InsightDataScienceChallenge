@@ -4,10 +4,18 @@
  - [Testing](README.md#Testing)
 
 
-
 ## Introduction
 
-This repository is created in response of Insight Data Science challenge question. The question ask for calculating error moving average between two given files. The solution uses Python code to read input files, analyze and generate the required output file. 
+There is a machine learning model from a financial institution that analyzes real-time stock market data. it predict the future price of a stock every hour, and they want to test it on real-time stock data.
+
+this project will help test to see how accurate their predictions are over time by comparing their predictions with newly arriving real-time stock prices.
+
+here is calculatation of error moving average between two given files. The solution uses Python code to read input files, analyze and generate the required output file. 
+
+## Challenge summary
+I read two different files, one provides the actual value of each stock every hour and the second lists the predicted value of various stocks at a certain hour during the same time period.
+
+The average error were obtained by calculating the average difference between the actual stock prices and predicted values over a specified sliding time window.
 
 
 ## Approach
